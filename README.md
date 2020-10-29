@@ -5,7 +5,7 @@
 Bikeshare Udacity Project
 
 ### Description
-Setting up repository using github.Making chances in documentation.
+Setting up repository using github.
 
 ### Files used
 bikeshare_2.py
